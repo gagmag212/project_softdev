@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane2" min="-2" pref="620" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane2" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="registerform">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="form">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder>
+                      <Color PropertyName="color" blue="99" green="99" red="99" type="rgb"/>
+                    </LineBorder>
+                  </Border>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="30" y="90" width="540" height="1090"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+                <Property name="useNullLayout" type="boolean" value="false"/>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel2">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="99" type="rgb"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="    Step 2 : &#xe02;&#xe49;&#xe2d;&#xe21;&#xe39;&#xe25;&#xe1a;&#xe23;&#xe34;&#xe29;&#xe31;&#xe17;"/>
+                    <Property name="toolTipText" type="java.lang.String" value=""/>
+                    <Property name="opaque" type="boolean" value="true"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="0" y="410" width="540" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel10">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="240" y="1050" width="10" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel11">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Username "/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="50" width="80" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel12">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="90" y="50" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JPasswordField" name="txt_rePasword">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="220" width="350" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel13">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Password"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="120" width="80" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel14">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="90" y="120" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JPasswordField" name="txt_password">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="150" width="350" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel15">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Re-Password"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="190" width="90" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel16">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="110" y="190" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_userName">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="80" width="350" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel17">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Email"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="260" width="40" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel18">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="60" y="260" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_email">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="290" width="350" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel19">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="99" type="rgb"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="    Step 1 : &#xe02;&#xe49;&#xe2d;&#xe21;&#xe39;&#xe25;&#xe01;&#xe32;&#xe23;&#xe40;&#xe02;&#xe49;&#xe32;&#xe2a;&#xe39;&#xe48;&#xe23;&#xe30;&#xe1a;&#xe1a;"/>
+                    <Property name="toolTipText" type="java.lang.String" value=""/>
+                    <Property name="opaque" type="boolean" value="true"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="0" y="0" width="540" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel20">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe1a;&#xe2d;&#xe23;&#xe4c;&#xe42;&#xe17;&#xe23;&#xe28;&#xe31;&#xe1e;&#xe17;&#xe4c;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="330" width="100" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel21">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="110" y="330" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="box_businesstype">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="18" style="1"/>
+                    </Property>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="43">
+                        <StringItem index="0" value="&#xe40;&#xe25;&#xe37;&#xe2d;&#xe01;&#xe1b;&#xe23;&#xe30;&#xe40;&#xe20;&#xe17;&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;"/>
+                        <StringItem index="1" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe42;&#xe06;&#xe29;&#xe13;&#xe32;"/>
+                        <StringItem index="2" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe40;&#xe01;&#xe29;&#xe15;&#xe23;"/>
+                        <StringItem index="3" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe22;&#xe32;&#xe19;&#xe22;&#xe19;&#xe15;&#xe4c;"/>
+                        <StringItem index="4" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe18;&#xe19;&#xe32;&#xe04;&#xe32;&#xe23;"/>
+                        <StringItem index="5" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe40;&#xe04;&#xe21;&#xe35;-&#xe1e;&#xe25;&#xe32;&#xe2a;&#xe15;&#xe34;&#xe01;"/>
+                        <StringItem index="6" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe04;&#xe2d;&#xe21;&#xe1e;&#xe34;&#xe27;&#xe40;&#xe15;&#xe2d;&#xe23;&#xe4c;"/>
+                        <StringItem index="7" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe48;&#xe2d;&#xe2a;&#xe23;&#xe49;&#xe32;&#xe07;-&#xe27;&#xe31;&#xe2a;&#xe14;&#xe38;&#xe01;&#xe48;&#xe2d;&#xe2a;&#xe23;&#xe49;&#xe32;&#xe07;"/>
+                        <StringItem index="8" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe17;&#xe35;&#xe48;&#xe1b;&#xe23;&#xe36;&#xe01;&#xe29;&#xe32;"/>
+                        <StringItem index="9" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe2d;&#xe01;&#xe41;&#xe1a;&#xe1a;-&#xe15;&#xe01;&#xe41;&#xe15;&#xe48;&#xe07;"/>
+                        <StringItem index="10" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe28;&#xe36;&#xe01;&#xe29;&#xe32;"/>
+                        <StringItem index="11" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe38;&#xe15;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe23;&#xe23;&#xe21;&#xe44;&#xe1f;&#xe1f;&#xe49;&#xe32;"/>
+                        <StringItem index="12" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe38;&#xe15;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe23;&#xe23;&#xe21;&#xe2d;&#xe34;&#xe40;&#xe25;&#xe47;&#xe04;&#xe42;&#xe17;&#xe23;&#xe19;&#xe34;&#xe04;"/>
+                        <StringItem index="13" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe1e;&#xe25;&#xe31;&#xe07;&#xe07;&#xe32;&#xe19;"/>
+                        <StringItem index="14" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe1a;&#xe31;&#xe19;&#xe40;&#xe17;&#xe34;&#xe07;"/>
+                        <StringItem index="15" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2a;&#xe16;&#xe32;&#xe1a;&#xe31;&#xe19;&#xe01;&#xe32;&#xe23;&#xe40;&#xe07;&#xe34;&#xe19;-&#xe2a;&#xe34;&#xe19;&#xe40;&#xe0a;&#xe37;&#xe48;&#xe2d;-&#xe1a;&#xe31;&#xe15;&#xe23;&#xe40;&#xe04;&#xe23;&#xe14;&#xe34;&#xe15;"/>
+                        <StringItem index="16" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe32;&#xe2b;&#xe32;&#xe23;-&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe14;&#xe37;&#xe48;&#xe21;"/>
+                        <StringItem index="17" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe40;&#xe2a;&#xe37;&#xe49;&#xe2d;&#xe1c;&#xe49;&#xe32;-&#xe2a;&#xe34;&#xe48;&#xe07;&#xe17;&#xe2d;"/>
+                        <StringItem index="18" value="&#xe23;&#xe32;&#xe0a;&#xe01;&#xe32;&#xe23;/&#xe23;&#xe31;&#xe10;&#xe27;&#xe34;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe34;&#xe08;/&#xe21;&#xe39;&#xe25;&#xe19;&#xe34;&#xe18;&#xe34;/&#xe2d;&#xe07;&#xe04;&#xe4c;&#xe01;&#xe23;"/>
+                        <StringItem index="19" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe42;&#xe23;&#xe07;&#xe1e;&#xe22;&#xe32;&#xe1a;&#xe32;&#xe25;/&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe21;&#xe37;&#xe2d;&#xe41;&#xe1e;&#xe17;&#xe22;&#xe4c;"/>
+                        <StringItem index="20" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe42;&#xe23;&#xe07;&#xe41;&#xe23;&#xe21;-&#xe23;&#xe35;&#xe2a;&#xe2d;&#xe23;&#xe4c;&#xe17;"/>
+                        <StringItem index="21" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe19;&#xe33;&#xe40;&#xe02;&#xe49;&#xe32;-&#xe2a;&#xe48;&#xe07;&#xe2d;&#xe2d;&#xe01;"/>
+                        <StringItem index="22" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe1b;&#xe23;&#xe30;&#xe01;&#xe31;&#xe19;&#xe0a;&#xe35;&#xe27;&#xe34;&#xe15;-&#xe1b;&#xe23;&#xe30;&#xe01;&#xe31;&#xe19;&#xe20;&#xe31;&#xe22;"/>
+                        <StringItem index="23" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe1b;&#xe23;&#xe30;&#xe14;&#xe31;&#xe1a;-&#xe2d;&#xe31;&#xe0d;&#xe21;&#xe13;&#xe35;"/>
+                        <StringItem index="24" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe22;&#xe32;/&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe2a;&#xe33;&#xe2d;&#xe32;&#xe07;"/>
+                        <StringItem index="25" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe1a;&#xe23;&#xe23;&#xe08;&#xe38;&#xe20;&#xe31;&#xe13;&#xe11;&#xe4c;"/>
+                        <StringItem index="26" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe40;&#xe02;&#xe35;&#xe22;&#xe19;-&#xe01;&#xe23;&#xe30;&#xe14;&#xe32;&#xe29;"/>
+                        <StringItem index="27" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2a;&#xe34;&#xe48;&#xe07;&#xe1e;&#xe34;&#xe21;&#xe1e;&#xe4c;"/>
+                        <StringItem index="28" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe2a;&#xe31;&#xe07;&#xe2b;&#xe32;&#xe23;&#xe34;&#xe21;&#xe17;&#xe23;&#xe31;&#xe1e;&#xe22;&#xe4c;"/>
+                        <StringItem index="29" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe08;&#xe31;&#xe14;&#xe2b;&#xe32;&#xe07;&#xe32;&#xe19;"/>
+                        <StringItem index="30" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe04;&#xe49;&#xe32;&#xe1b;&#xe25;&#xe35;&#xe01;"/>
+                        <StringItem index="31" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe1a;&#xe23;&#xe34;&#xe01;&#xe32;&#xe23;"/>
+                        <StringItem index="32" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2a;&#xe37;&#xe48;&#xe2d;&#xe2a;&#xe32;&#xe23;&#xe41;&#xe25;&#xe30;&#xe42;&#xe17;&#xe23;&#xe04;&#xe21;&#xe19;&#xe32;&#xe04;&#xe21;"/>
+                        <StringItem index="33" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe02;&#xe19;&#xe2a;&#xe48;&#xe07;"/>
+                        <StringItem index="34" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe32;&#xe23;&#xe17;&#xe48;&#xe2d;&#xe07;&#xe40;&#xe17;&#xe35;&#xe48;&#xe22;&#xe27;"/>
+                        <StringItem index="35" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe28;&#xe39;&#xe19;&#xe22;&#xe4c;&#xe2a;&#xe23;&#xe23;&#xe1e;&#xe2a;&#xe34;&#xe19;&#xe04;&#xe49;&#xe32;"/>
+                        <StringItem index="36" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe01;&#xe0e;&#xe2b;&#xe21;&#xe32;&#xe22;"/>
+                        <StringItem index="37" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe38;&#xe15;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe23;&#xe23;&#xe21;&#xe42;&#xe25;&#xe2b;&#xe30;/&#xe40;&#xe2b;&#xe25;&#xe47;&#xe01;"/>
+                        <StringItem index="38" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe44;&#xe21;&#xe49;/&#xe40;&#xe1f;&#xe2d;&#xe23;&#xe4c;&#xe19;&#xe34;&#xe40;&#xe08;&#xe2d;&#xe23;&#xe4c;/&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe43;&#xe0a;&#xe49;"/>
+                        <StringItem index="39" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2a;&#xe37;&#xe48;&#xe2d;&#xe2a;&#xe32;&#xe23;&#xe21;&#xe27;&#xe25;&#xe0a;&#xe19;"/>
+                        <StringItem index="40" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe02;&#xe32;&#xe22;&#xe15;&#xe23;&#xe07; /MLM"/>
+                        <StringItem index="41" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe08;&#xe33;&#xe2b;&#xe19;&#xe48;&#xe32;&#xe22;&#xe40;&#xe2a;&#xe37;&#xe49;&#xe2d;&#xe1c;&#xe49;&#xe32;/&#xe2d;&#xe38;&#xe1b;&#xe01;&#xe23;&#xe13;&#xe4c;&#xe01;&#xe35;&#xe2c;&#xe32;"/>
+                        <StringItem index="42" value="&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;&#xe2d;&#xe37;&#xe48;&#xe19;&#xe46;&#x9;&#x9;"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="box_businesstypeActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="490" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel22">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe1b;&#xe23;&#xe30;&#xe40;&#xe20;&#xe17;&#xe02;&#xe2d;&#xe07;&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="460" width="120" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel23">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="140" y="460" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_tellnumber">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="360" width="350" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel24">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe0a;&#xe37;&#xe48;&#xe2d;&#xe1c;&#xe39;&#xe49;&#xe15;&#xe34;&#xe14;&#xe15;&#xe48;&#xe2d;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="530" width="70" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel25">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="90" y="530" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_contactname">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="560" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel26">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe0a;&#xe37;&#xe48;&#xe2d;&#xe1a;&#xe23;&#xe34;&#xe29;&#xe31;&#xe17;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="600" width="60" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel27">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="80" y="600" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="700" width="500" height="-1"/>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTextArea" name="txt_companyDetail">
+                      <Properties>
+                        <Property name="columns" type="int" value="20"/>
+                        <Property name="rows" type="int" value="5"/>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Component class="javax.swing.JLabel" name="jLabel1">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="16" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="^ &#xe23;&#xe32;&#xe22;&#xe25;&#xe30;&#xe40;&#xe2d;&#xe35;&#xe22;&#xe14;&#xe43;&#xe19;&#xe17;&#xe35;&#xe48;&#xe19;&#xe35;&#xe49;&#xe04;&#xe37;&#xe2d; &#xe2d;&#xe18;&#xe34;&#xe1a;&#xe32;&#xe22; &#xe23;&#xe32;&#xe22;&#xe25;&#xe30;&#xe40;&#xe2d;&#xe35;&#xe22;&#xe14; &#xe01;&#xe32;&#xe23;&#xe14;&#xe33;&#xe40;&#xe19;&#xe34;&#xe19;&#xe07;&#xe32;&#xe19; &#xe2b;&#xe23;&#xe37;&#xe2d; &#xe40;&#xe01;&#xe35;&#xe48;&#xe22;&#xe27;&#xe01;&#xe31;&#xe1a;&#xe1a;&#xe23;&#xe34;&#xe29;&#xe31;&#xe17; &#xe44;&#xe21;&#xe48;&#xe43;&#xe0a;&#xe48;&#xe15;&#xe33;&#xe41;&#xe2b;&#xe19;&#xe48;&#xe07;&#xe07;&#xe32;&#xe19;&#xe27;&#xe48;&#xe32;&#xe07;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="800" width="-1" height="-1"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel28">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe23;&#xe32;&#xe22;&#xe25;&#xe30;&#xe40;&#xe2d;&#xe35;&#xe22;&#xe14;&#xe1a;&#xe23;&#xe34;&#xe29;&#xe31;&#xe17;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="670" width="120" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel29">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="140" y="670" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_companyname">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="630" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel30">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="16" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="^ &#xe01;&#xe23;&#xe2d;&#xe01;&#xe43;&#xe2b;&#xe49;&#xe04;&#xe23;&#xe1a;&#xe17;&#xe31;&#xe49;&#xe07; &#xe1a;&#xe49;&#xe32;&#xe19;&#xe40;&#xe25;&#xe02;&#xe17;&#xe35;&#xe48;, &#xe0b;&#xe2d;&#xe22;(&#xe16;&#xe49;&#xe32;&#xe21;&#xe35;), &#xe16;&#xe19;&#xe19;, &#xe40;&#xe02;&#xe15;, &#xe2d;&#xe33;&#xe40;&#xe20;&#xe2d;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="890" width="-1" height="-1"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel31">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe17;&#xe35;&#xe48;&#xe2d;&#xe22;&#xe39;&#xe48;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="820" width="30" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel32">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="50" y="820" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JComboBox" name="box_province">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="20" style="1"/>
+                    </Property>
+                    <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                      <StringArray count="78">
+                        <StringItem index="0" value="&#xe40;&#xe25;&#xe37;&#xe2d;&#xe01;&#xe08;&#xe31;&#xe07;&#xe2b;&#xe27;&#xe31;&#xe14;"/>
+                        <StringItem index="1" value="&#xe01;&#xe23;&#xe38;&#xe07;&#xe40;&#xe17;&#xe1e;&#xe21;&#xe2b;&#xe32;&#xe19;&#xe04;&#xe23; "/>
+                        <StringItem index="2" value="&#xe01;&#xe23;&#xe30;&#xe1a;&#xe35;&#xe48; "/>
+                        <StringItem index="3" value="&#xe01;&#xe32;&#xe0d;&#xe08;&#xe19;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="4" value="&#xe01;&#xe32;&#xe2c;&#xe2a;&#xe34;&#xe19;&#xe18;&#xe38;&#xe4c; "/>
+                        <StringItem index="5" value="&#xe01;&#xe33;&#xe41;&#xe1e;&#xe07;&#xe40;&#xe1e;&#xe0a;&#xe23; "/>
+                        <StringItem index="6" value="&#xe02;&#xe2d;&#xe19;&#xe41;&#xe01;&#xe48;&#xe19; "/>
+                        <StringItem index="7" value="&#xe08;&#xe31;&#xe19;&#xe17;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="8" value="&#xe09;&#xe30;&#xe40;&#xe0a;&#xe34;&#xe07;&#xe40;&#xe17;&#xe23;&#xe32; "/>
+                        <StringItem index="9" value="&#xe0a;&#xe25;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="10" value="&#xe0a;&#xe31;&#xe22;&#xe19;&#xe32;&#xe17; "/>
+                        <StringItem index="11" value="&#xe0a;&#xe31;&#xe22;&#xe20;&#xe39;&#xe21;&#xe34; "/>
+                        <StringItem index="12" value="&#xe0a;&#xe38;&#xe21;&#xe1e;&#xe23; "/>
+                        <StringItem index="13" value="&#xe40;&#xe0a;&#xe35;&#xe22;&#xe07;&#xe23;&#xe32;&#xe22; "/>
+                        <StringItem index="14" value="&#xe40;&#xe0a;&#xe35;&#xe22;&#xe07;&#xe43;&#xe2b;&#xe21;&#xe48; "/>
+                        <StringItem index="15" value="&#xe15;&#xe23;&#xe31;&#xe07; "/>
+                        <StringItem index="16" value="&#xe15;&#xe23;&#xe32;&#xe14; "/>
+                        <StringItem index="17" value="&#xe15;&#xe32;&#xe01; "/>
+                        <StringItem index="18" value="&#xe19;&#xe04;&#xe23;&#xe19;&#xe32;&#xe22;&#xe01; "/>
+                        <StringItem index="19" value="&#xe19;&#xe04;&#xe23;&#xe1b;&#xe10;&#xe21; "/>
+                        <StringItem index="20" value="&#xe19;&#xe04;&#xe23;&#xe1e;&#xe19;&#xe21; "/>
+                        <StringItem index="21" value="&#xe19;&#xe04;&#xe23;&#xe23;&#xe32;&#xe0a;&#xe2a;&#xe35;&#xe21;&#xe32; "/>
+                        <StringItem index="22" value="&#xe19;&#xe04;&#xe23;&#xe28;&#xe23;&#xe35;&#xe18;&#xe23;&#xe23;&#xe21;&#xe23;&#xe32;&#xe0a; "/>
+                        <StringItem index="23" value="&#xe19;&#xe04;&#xe23;&#xe2a;&#xe27;&#xe23;&#xe23;&#xe04;&#xe4c; "/>
+                        <StringItem index="24" value="&#xe19;&#xe19;&#xe17;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="25" value="&#xe19;&#xe23;&#xe32;&#xe18;&#xe34;&#xe27;&#xe32;&#xe2a; "/>
+                        <StringItem index="26" value="&#xe19;&#xe48;&#xe32;&#xe19; "/>
+                        <StringItem index="27" value="&#xe1a;&#xe36;&#xe07;&#xe01;&#xe32;&#xe2c; "/>
+                        <StringItem index="28" value="&#xe1a;&#xe38;&#xe23;&#xe35;&#xe23;&#xe31;&#xe21;&#xe22;&#xe4c; "/>
+                        <StringItem index="29" value="&#xe1b;&#xe17;&#xe38;&#xe21;&#xe18;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="30" value="&#xe1b;&#xe23;&#xe30;&#xe08;&#xe27;&#xe1a;&#xe04;&#xe35;&#xe23;&#xe35;&#xe02;&#xe31;&#xe19;&#xe18;&#xe4c; "/>
+                        <StringItem index="31" value="&#xe1b;&#xe23;&#xe32;&#xe08;&#xe35;&#xe19;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="32" value="&#xe1b;&#xe31;&#xe15;&#xe15;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="33" value="&#xe1e;&#xe23;&#xe30;&#xe19;&#xe04;&#xe23;&#xe28;&#xe23;&#xe35;&#xe2d;&#xe22;&#xe38;&#xe18;&#xe22;&#xe32; "/>
+                        <StringItem index="34" value="&#xe1e;&#xe31;&#xe07;&#xe07;&#xe32; "/>
+                        <StringItem index="35" value="&#xe1e;&#xe31;&#xe17;&#xe25;&#xe38;&#xe07; "/>
+                        <StringItem index="36" value="&#xe1e;&#xe34;&#xe08;&#xe34;&#xe15;&#xe23; "/>
+                        <StringItem index="37" value="&#xe1e;&#xe34;&#xe29;&#xe13;&#xe38;&#xe42;&#xe25;&#xe01; "/>
+                        <StringItem index="38" value="&#xe40;&#xe1e;&#xe0a;&#xe23;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="39" value="&#xe40;&#xe1e;&#xe0a;&#xe23;&#xe1a;&#xe39;&#xe23;&#xe13;&#xe4c; "/>
+                        <StringItem index="40" value="&#xe41;&#xe1e;&#xe23;&#xe48; "/>
+                        <StringItem index="41" value="&#xe1e;&#xe30;&#xe40;&#xe22;&#xe32; "/>
+                        <StringItem index="42" value="&#xe20;&#xe39;&#xe40;&#xe01;&#xe47;&#xe15; "/>
+                        <StringItem index="43" value="&#xe21;&#xe2b;&#xe32;&#xe2a;&#xe32;&#xe23;&#xe04;&#xe32;&#xe21; "/>
+                        <StringItem index="44" value="&#xe21;&#xe38;&#xe01;&#xe14;&#xe32;&#xe2b;&#xe32;&#xe23; "/>
+                        <StringItem index="45" value="&#xe41;&#xe21;&#xe48;&#xe2e;&#xe48;&#xe2d;&#xe07;&#xe2a;&#xe2d;&#xe19; "/>
+                        <StringItem index="46" value="&#xe22;&#xe30;&#xe25;&#xe32; "/>
+                        <StringItem index="47" value="&#xe22;&#xe42;&#xe2a;&#xe18;&#xe23; "/>
+                        <StringItem index="48" value="&#xe23;&#xe49;&#xe2d;&#xe22;&#xe40;&#xe2d;&#xe47;&#xe14; "/>
+                        <StringItem index="49" value="&#xe23;&#xe30;&#xe19;&#xe2d;&#xe07; "/>
+                        <StringItem index="50" value="&#xe23;&#xe30;&#xe22;&#xe2d;&#xe07; "/>
+                        <StringItem index="51" value="&#xe23;&#xe32;&#xe0a;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="52" value="&#xe25;&#xe1e;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="53" value="&#xe25;&#xe33;&#xe1b;&#xe32;&#xe07; "/>
+                        <StringItem index="54" value="&#xe25;&#xe33;&#xe1e;&#xe39;&#xe19; "/>
+                        <StringItem index="55" value="&#xe40;&#xe25;&#xe22; "/>
+                        <StringItem index="56" value="&#xe28;&#xe23;&#xe35;&#xe2a;&#xe30;&#xe40;&#xe01;&#xe29; "/>
+                        <StringItem index="57" value="&#xe2a;&#xe01;&#xe25;&#xe19;&#xe04;&#xe23; "/>
+                        <StringItem index="58" value="&#xe2a;&#xe07;&#xe02;&#xe25;&#xe32; "/>
+                        <StringItem index="59" value="&#xe2a;&#xe15;&#xe39;&#xe25; "/>
+                        <StringItem index="60" value="&#xe2a;&#xe21;&#xe38;&#xe17;&#xe23;&#xe1b;&#xe23;&#xe32;&#xe01;&#xe32;&#xe23; "/>
+                        <StringItem index="61" value="&#xe2a;&#xe21;&#xe38;&#xe17;&#xe23;&#xe2a;&#xe07;&#xe04;&#xe23;&#xe32;&#xe21; "/>
+                        <StringItem index="62" value="&#xe2a;&#xe21;&#xe38;&#xe17;&#xe23;&#xe2a;&#xe32;&#xe04;&#xe23; "/>
+                        <StringItem index="63" value="&#xe2a;&#xe23;&#xe30;&#xe41;&#xe01;&#xe49;&#xe27; "/>
+                        <StringItem index="64" value="&#xe2a;&#xe23;&#xe30;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="65" value="&#xe2a;&#xe34;&#xe07;&#xe2b;&#xe4c;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="66" value="&#xe2a;&#xe38;&#xe42;&#xe02;&#xe17;&#xe31;&#xe22; "/>
+                        <StringItem index="67" value="&#xe2a;&#xe38;&#xe1e;&#xe23;&#xe23;&#xe13;&#xe1a;&#xe38;&#xe23;&#xe35; "/>
+                        <StringItem index="68" value="&#xe2a;&#xe38;&#xe23;&#xe32;&#xe29;&#xe0e;&#xe23;&#xe4c;&#xe18;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="69" value="&#xe2a;&#xe38;&#xe23;&#xe34;&#xe19;&#xe17;&#xe23;&#xe4c; "/>
+                        <StringItem index="70" value="&#xe2b;&#xe19;&#xe2d;&#xe07;&#xe04;&#xe32;&#xe22; "/>
+                        <StringItem index="71" value="&#xe2b;&#xe19;&#xe2d;&#xe07;&#xe1a;&#xe31;&#xe27;&#xe25;&#xe33;&#xe20;&#xe39; "/>
+                        <StringItem index="72" value="&#xe2d;&#xe48;&#xe32;&#xe07;&#xe17;&#xe2d;&#xe07; "/>
+                        <StringItem index="73" value="&#xe2d;&#xe38;&#xe14;&#xe23;&#xe18;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="74" value="&#xe2d;&#xe38;&#xe17;&#xe31;&#xe22;&#xe18;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="75" value="&#xe2d;&#xe38;&#xe15;&#xe23;&#xe14;&#xe34;&#xe15;&#xe16;&#xe4c; "/>
+                        <StringItem index="76" value="&#xe2d;&#xe38;&#xe1a;&#xe25;&#xe23;&#xe32;&#xe0a;&#xe18;&#xe32;&#xe19;&#xe35; "/>
+                        <StringItem index="77" value="&#xe2d;&#xe33;&#xe19;&#xe32;&#xe08;&#xe40;&#xe08;&#xe23;&#xe34;&#xe0d;"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="box_provinceActionPerformed"/>
+                  </Events>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="940" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel33">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe31;&#xe07;&#xe2b;&#xe27;&#xe31;&#xe14;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="910" width="50" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel34">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="70" y="910" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_address">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="850" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel35">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe23;&#xe2b;&#xe31;&#xe2a;&#xe44;&#xe1b;&#xe23;&#xe29;&#xe13;&#xe35;&#xe22;&#xe4c;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="980" width="90" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel36">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="*"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="110" y="980" width="10" height="30"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JTextField" name="txt_zipcode">
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="20" y="1010" width="500" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel41">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="18" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe2b;&#xe21;&#xe32;&#xe22;&#xe40;&#xe2b;&#xe15;&#xe38; : &#xe0a;&#xe48;&#xe2d;&#xe07;&#xe17;&#xe35;&#xe48;&#xe21;&#xe35;      &#xe2b;&#xe21;&#xe32;&#xe22;&#xe04;&#xe27;&#xe32;&#xe21;&#xe27;&#xe48;&#xe32;&#xe08;&#xe33;&#xe40;&#xe1b;&#xe47;&#xe19;&#xe15;&#xe49;&#xe2d;&#xe07;&#xe01;&#xe23;&#xe2d;&#xe01;&#xe02;&#xe49;&#xe2d;&#xe21;&#xe39;&#xe25;"/>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="140" y="1060" width="-1" height="-1"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Container class="javax.swing.JPanel" name="nevigator1">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                  </Properties>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="380" y="50" width="-1" height="200"/>
+                    </Constraint>
+                  </Constraints>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+                    <Property name="useNullLayout" type="boolean" value="false"/>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JLabel" name="jLabel9">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="18" style="1"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe04;&#xe33;&#xe41;&#xe19;&#xe30;&#xe19;&#xe33;&#xe01;&#xe32;&#xe23;&#xe15;&#xe31;&#xe49;&#xe07; Password"/>
+                        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                            <LineBorder>
+                              <Color PropertyName="color" blue="99" green="99" red="99" type="rgb"/>
+                            </LineBorder>
+                          </Border>
+                        </Property>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="70" width="150" height="30"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel37">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe15;&#xe31;&#xe27;&#xe40;&#xe25;&#xe02; 0-9"/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="120" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel38">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  8 &#xe15;&#xe31;&#xe27;&#xe2d;&#xe31;&#xe01;&#xe29;&#xe23;"/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="160" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel39">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe21;&#xe35;&#xe04;&#xe27;&#xe32;&#xe21;&#xe22;&#xe32;&#xe27;&#xe21;&#xe32;&#xe01;&#xe01;&#xe27;&#xe48;&#xe32;&#xe2b;&#xe23;&#xe37;&#xe2d;&#xe40;&#xe17;&#xe48;&#xe32;&#xe01;&#xe31;&#xe1a;"/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="140" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel40">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe40;&#xe1b;&#xe47;&#xe19;&#xe20;&#xe32;&#xe29;&#xe32;&#xe2d;&#xe31;&#xe07;&#xe01;&#xe24;&#xe29; a-z, A-Z "/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="100" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel42">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="18" style="1"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe04;&#xe33;&#xe41;&#xe19;&#xe30;&#xe19;&#xe33;&#xe01;&#xe32;&#xe23;&#xe15;&#xe31;&#xe49;&#xe07; Username"/>
+                        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                            <LineBorder>
+                              <Color PropertyName="color" blue="99" green="99" red="99" type="rgb"/>
+                            </LineBorder>
+                          </Border>
+                        </Property>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="0" width="150" height="30"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel43">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  &#xe21;&#xe35;&#xe04;&#xe27;&#xe32;&#xe21;&#xe22;&#xe32;&#xe27;&#xe21;&#xe32;&#xe01;&#xe01;&#xe27;&#xe48;&#xe32;&#xe2b;&#xe23;&#xe37;&#xe2d;&#xe40;&#xe17;&#xe48;&#xe32;&#xe01;&#xe31;&#xe1a;"/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="30" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="jLabel44">
+                      <Properties>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                          <Font name="Angsana New" size="16" style="0"/>
+                        </Property>
+                        <Property name="text" type="java.lang.String" value="  6 &#xe15;&#xe31;&#xe27;&#xe2d;&#xe31;&#xe01;&#xe29;&#xe23;"/>
+                      </Properties>
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                          <AbsoluteConstraints x="0" y="50" width="150" height="20"/>
+                        </Constraint>
+                      </Constraints>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="99" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="36" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="                        &#xe2a;&#xe21;&#xe31;&#xe04;&#xe23;&#xe2a;&#xe21;&#xe32;&#xe0a;&#xe34;&#xe01; (&#xe1c;&#xe39;&#xe49;&#xe1b;&#xe23;&#xe30;&#xe01;&#xe2d;&#xe1a;&#xe01;&#xe32;&#xe23;)"/>
+                <Property name="toolTipText" type="java.lang.String" value=""/>
+                <Property name="opaque" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="600" height="60"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Container class="javax.swing.JPanel" name="jPanel1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="30" y="1190" width="540" height="90"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+                <Property name="useNullLayout" type="boolean" value="false"/>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JToggleButton" name="cancel">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe22;&#xe01;&#xe40;&#xe25;&#xe34;&#xe01;"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelActionPerformed"/>
+                  </Events>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="290" y="0" width="250" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+                <Component class="javax.swing.JToggleButton" name="accept">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Angsana New" size="24" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe48;&#xe07;&#xe41;&#xe1a;&#xe1a;&#xe1f;&#xe2d;&#xe23;&#xe4c;&#xe21;"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="acceptActionPerformed"/>
+                  </Events>
+                  <Constraints>
+                    <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                      <AbsoluteConstraints x="0" y="0" width="250" height="40"/>
+                    </Constraint>
+                  </Constraints>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
